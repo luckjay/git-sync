@@ -1,13 +1,14 @@
 _id: req_71adbfff4a844016ae34fcdcce6643fe
 type: Request
 parentId: wrk_fee2ef44c9da48d28e6d6a4c1d691047
-modified: 1711595187878
+modified: 1711596259307
 created: 1711595187878
-url: ""
+url: https://httpbin.org/get
 name: New Request
 description: ""
 method: GET
 body: {}
+preRequestScript: ""
 parameters: []
 headers:
   - name: User-Agent
